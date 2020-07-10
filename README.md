@@ -10,7 +10,7 @@
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-skill-%23F7DF1E?style=pastic&logo=JavaScript&logoColor=white/)]()
 [![NodeJS Badge](https://img.shields.io/badge/NodeJS-skill-%23339933?style=pastic&logo=Node.js&logoColor=white/)]()
 [![MySQL Badge](https://img.shields.io/badge/MySQL-skill-%234479A1?style=pastic&logo=MySQL&logoColor=white/)]()
-[![Git Badge](https://img.shields.io/badge/React%20Git-skill-%23F05032?style=pastic&logo=Git&logoColor=white/)]()
+[![Git Badge](https://img.shields.io/badge/Git-skill-%23F05032?style=pastic&logo=Git&logoColor=white/)]()
 
 
 <!--
