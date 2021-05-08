@@ -12,7 +12,7 @@
 [![MySQL Badge](https://img.shields.io/badge/MySQL-skill-%234479A1?style=pastic&logo=MySQL&logoColor=white/)]()
 [![Git Badge](https://img.shields.io/badge/Git-skill-%23F05032?style=pastic&logo=Git&logoColor=white/)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonoliveira96)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonoliveira96)Suporte robusto a desenvolvimento não-linearSuporte robusto a 
 
 <!--
 **tonoliveira96/tonoliveira96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
