@@ -13,7 +13,7 @@
 [![MySQL Badge](https://img.shields.io/badge/MySQL-skill-%234479A1?style=pastic&logo=MySQL&logoColor=white/)]()
 [![Git Badge](https://img.shields.io/badge/Git-skill-%23F05032?style=pastic&logo=Git&logoColor=white/)]()
 
-![tonoliveira96's Stats](https://github-readme-stats.vercel.app/api?username=tonoliveira96&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![tonoliveira96's Stats](https://github-readme-stats.vercel.app/api?username=tonoliveira96&theme=dark&show_icons=true&hide_border=true&count_private=true&hide=contribs)
 ![tonoliveira96's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonoliveira96&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
